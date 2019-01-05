@@ -1,4 +1,4 @@
-# Neural Networks And Deep Learning Course Project (Coursera)
+# Neural Networks And Deep Learning Course Project 1 (Coursera)
 Built an image recognition algorithm. A cat classifier that recognizes cats using Logistic Regression with 70% accuracy!
 
 Find complete code inside ipython notebook.
